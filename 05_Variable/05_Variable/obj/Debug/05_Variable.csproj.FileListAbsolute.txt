@@ -1,0 +1,7 @@
+C:\Users\82108\Documents\GitHub\C_Pound_Progress\05_Variable\05_Variable\bin\Debug\05_Variable.exe.config
+C:\Users\82108\Documents\GitHub\C_Pound_Progress\05_Variable\05_Variable\bin\Debug\05_Variable.exe
+C:\Users\82108\Documents\GitHub\C_Pound_Progress\05_Variable\05_Variable\bin\Debug\05_Variable.pdb
+C:\Users\82108\Documents\GitHub\C_Pound_Progress\05_Variable\05_Variable\obj\Debug\05_Variable.csproj.AssemblyReference.cache
+C:\Users\82108\Documents\GitHub\C_Pound_Progress\05_Variable\05_Variable\obj\Debug\05_Variable.csproj.CoreCompileInputs.cache
+C:\Users\82108\Documents\GitHub\C_Pound_Progress\05_Variable\05_Variable\obj\Debug\05_Variable.exe
+C:\Users\82108\Documents\GitHub\C_Pound_Progress\05_Variable\05_Variable\obj\Debug\05_Variable.pdb

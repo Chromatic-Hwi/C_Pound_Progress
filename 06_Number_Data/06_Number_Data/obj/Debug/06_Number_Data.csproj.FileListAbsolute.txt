@@ -1,0 +1,6 @@
+C:\Users\82108\Documents\GitHub\C_Pound_Progress\06_Number_Data\06_Number_Data\obj\Debug\06_Number_Data.csproj.CoreCompileInputs.cache
+C:\Users\82108\Documents\GitHub\C_Pound_Progress\06_Number_Data\06_Number_Data\bin\Debug\06_Number_Data.exe.config
+C:\Users\82108\Documents\GitHub\C_Pound_Progress\06_Number_Data\06_Number_Data\bin\Debug\06_Number_Data.exe
+C:\Users\82108\Documents\GitHub\C_Pound_Progress\06_Number_Data\06_Number_Data\bin\Debug\06_Number_Data.pdb
+C:\Users\82108\Documents\GitHub\C_Pound_Progress\06_Number_Data\06_Number_Data\obj\Debug\06_Number_Data.exe
+C:\Users\82108\Documents\GitHub\C_Pound_Progress\06_Number_Data\06_Number_Data\obj\Debug\06_Number_Data.pdb

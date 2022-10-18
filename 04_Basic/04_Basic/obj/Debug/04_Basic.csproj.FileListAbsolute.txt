@@ -1,0 +1,7 @@
+C:\Users\82108\Documents\GitHub\C_Pound_Progress\04_Basic\04_Basic\obj\Debug\04_Basic.csproj.AssemblyReference.cache
+C:\Users\82108\Documents\GitHub\C_Pound_Progress\04_Basic\04_Basic\obj\Debug\04_Basic.csproj.CoreCompileInputs.cache
+C:\Users\82108\Documents\GitHub\C_Pound_Progress\04_Basic\04_Basic\bin\Debug\04_Basic.exe.config
+C:\Users\82108\Documents\GitHub\C_Pound_Progress\04_Basic\04_Basic\bin\Debug\04_Basic.exe
+C:\Users\82108\Documents\GitHub\C_Pound_Progress\04_Basic\04_Basic\bin\Debug\04_Basic.pdb
+C:\Users\82108\Documents\GitHub\C_Pound_Progress\04_Basic\04_Basic\obj\Debug\04_Basic.exe
+C:\Users\82108\Documents\GitHub\C_Pound_Progress\04_Basic\04_Basic\obj\Debug\04_Basic.pdb
