@@ -1,0 +1,7 @@
+C:\Users\Administrator\Documents\GitHub\C_Pound_Progress\08_Read\08_Read\obj\Debug\08_Read.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\C_Pound_Progress\08_Read\08_Read\obj\Debug\08_Read.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\GitHub\C_Pound_Progress\08_Read\08_Read\bin\Debug\08_Read.exe.config
+C:\Users\Administrator\Documents\GitHub\C_Pound_Progress\08_Read\08_Read\bin\Debug\08_Read.exe
+C:\Users\Administrator\Documents\GitHub\C_Pound_Progress\08_Read\08_Read\bin\Debug\08_Read.pdb
+C:\Users\Administrator\Documents\GitHub\C_Pound_Progress\08_Read\08_Read\obj\Debug\08_Read.exe
+C:\Users\Administrator\Documents\GitHub\C_Pound_Progress\08_Read\08_Read\obj\Debug\08_Read.pdb
