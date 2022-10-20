@@ -1,0 +1,7 @@
+C:\Users\Administrator\Documents\GitHub\C_Pound_Progress\13_controlStatement\13_controlStatement\bin\Debug\13_controlStatement.exe.config
+C:\Users\Administrator\Documents\GitHub\C_Pound_Progress\13_controlStatement\13_controlStatement\bin\Debug\13_controlStatement.exe
+C:\Users\Administrator\Documents\GitHub\C_Pound_Progress\13_controlStatement\13_controlStatement\bin\Debug\13_controlStatement.pdb
+C:\Users\Administrator\Documents\GitHub\C_Pound_Progress\13_controlStatement\13_controlStatement\obj\Debug\13_controlStatement.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\C_Pound_Progress\13_controlStatement\13_controlStatement\obj\Debug\13_controlStatement.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\GitHub\C_Pound_Progress\13_controlStatement\13_controlStatement\obj\Debug\13_controlStatement.exe
+C:\Users\Administrator\Documents\GitHub\C_Pound_Progress\13_controlStatement\13_controlStatement\obj\Debug\13_controlStatement.pdb

@@ -1,0 +1,6 @@
+C:\Users\Administrator\Documents\GitHub\C_Pound_Progress\14_switch\14_switch\bin\Debug\14_switch.exe.config
+C:\Users\Administrator\Documents\GitHub\C_Pound_Progress\14_switch\14_switch\bin\Debug\14_switch.exe
+C:\Users\Administrator\Documents\GitHub\C_Pound_Progress\14_switch\14_switch\bin\Debug\14_switch.pdb
+C:\Users\Administrator\Documents\GitHub\C_Pound_Progress\14_switch\14_switch\obj\Debug\14_switch.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\GitHub\C_Pound_Progress\14_switch\14_switch\obj\Debug\14_switch.exe
+C:\Users\Administrator\Documents\GitHub\C_Pound_Progress\14_switch\14_switch\obj\Debug\14_switch.pdb
