@@ -1,0 +1,7 @@
+C:\Users\82108\Documents\GitHub\C_Pound_Progress\15_for\15_for\bin\Debug\15_for.exe.config
+C:\Users\82108\Documents\GitHub\C_Pound_Progress\15_for\15_for\bin\Debug\15_for.exe
+C:\Users\82108\Documents\GitHub\C_Pound_Progress\15_for\15_for\bin\Debug\15_for.pdb
+C:\Users\82108\Documents\GitHub\C_Pound_Progress\15_for\15_for\obj\Debug\15_for.csproj.AssemblyReference.cache
+C:\Users\82108\Documents\GitHub\C_Pound_Progress\15_for\15_for\obj\Debug\15_for.csproj.CoreCompileInputs.cache
+C:\Users\82108\Documents\GitHub\C_Pound_Progress\15_for\15_for\obj\Debug\15_for.exe
+C:\Users\82108\Documents\GitHub\C_Pound_Progress\15_for\15_for\obj\Debug\15_for.pdb
