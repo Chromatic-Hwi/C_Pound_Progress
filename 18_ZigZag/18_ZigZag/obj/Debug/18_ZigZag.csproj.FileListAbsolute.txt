@@ -1,0 +1,7 @@
+C:\Users\82108\Documents\GitHub\C_Pound_Progress\18_ZigZag\18_ZigZag\bin\Debug\18_ZigZag.exe.config
+C:\Users\82108\Documents\GitHub\C_Pound_Progress\18_ZigZag\18_ZigZag\bin\Debug\18_ZigZag.exe
+C:\Users\82108\Documents\GitHub\C_Pound_Progress\18_ZigZag\18_ZigZag\bin\Debug\18_ZigZag.pdb
+C:\Users\82108\Documents\GitHub\C_Pound_Progress\18_ZigZag\18_ZigZag\obj\Debug\18_ZigZag.csproj.AssemblyReference.cache
+C:\Users\82108\Documents\GitHub\C_Pound_Progress\18_ZigZag\18_ZigZag\obj\Debug\18_ZigZag.csproj.CoreCompileInputs.cache
+C:\Users\82108\Documents\GitHub\C_Pound_Progress\18_ZigZag\18_ZigZag\obj\Debug\18_ZigZag.exe
+C:\Users\82108\Documents\GitHub\C_Pound_Progress\18_ZigZag\18_ZigZag\obj\Debug\18_ZigZag.pdb
