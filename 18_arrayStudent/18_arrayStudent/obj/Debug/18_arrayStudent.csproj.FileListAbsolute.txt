@@ -1,0 +1,7 @@
+C:\Users\Administrator\Documents\GitHub\C_Pound_Progress\18_arrayStudent\18_arrayStudent\bin\Debug\18_arrayStudent.exe.config
+C:\Users\Administrator\Documents\GitHub\C_Pound_Progress\18_arrayStudent\18_arrayStudent\bin\Debug\18_arrayStudent.exe
+C:\Users\Administrator\Documents\GitHub\C_Pound_Progress\18_arrayStudent\18_arrayStudent\bin\Debug\18_arrayStudent.pdb
+C:\Users\Administrator\Documents\GitHub\C_Pound_Progress\18_arrayStudent\18_arrayStudent\obj\Debug\18_arrayStudent.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\C_Pound_Progress\18_arrayStudent\18_arrayStudent\obj\Debug\18_arrayStudent.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\GitHub\C_Pound_Progress\18_arrayStudent\18_arrayStudent\obj\Debug\18_arrayStudent.exe
+C:\Users\Administrator\Documents\GitHub\C_Pound_Progress\18_arrayStudent\18_arrayStudent\obj\Debug\18_arrayStudent.pdb

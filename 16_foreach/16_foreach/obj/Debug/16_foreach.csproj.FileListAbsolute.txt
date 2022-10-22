@@ -1,0 +1,6 @@
+C:\Users\Administrator\source\repos\16_foreach\16_foreach\obj\Debug\16_foreach.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\16_foreach\16_foreach\bin\Debug\16_foreach.exe.config
+C:\Users\Administrator\source\repos\16_foreach\16_foreach\bin\Debug\16_foreach.exe
+C:\Users\Administrator\source\repos\16_foreach\16_foreach\bin\Debug\16_foreach.pdb
+C:\Users\Administrator\source\repos\16_foreach\16_foreach\obj\Debug\16_foreach.exe
+C:\Users\Administrator\source\repos\16_foreach\16_foreach\obj\Debug\16_foreach.pdb

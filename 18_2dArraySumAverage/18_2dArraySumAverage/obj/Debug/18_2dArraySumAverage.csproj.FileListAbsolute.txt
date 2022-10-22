@@ -1,0 +1,7 @@
+C:\Users\Administrator\Documents\GitHub\C_Pound_Progress\18_2dArraySumAverage\18_2dArraySumAverage\bin\Debug\18_2dArraySumAverage.exe.config
+C:\Users\Administrator\Documents\GitHub\C_Pound_Progress\18_2dArraySumAverage\18_2dArraySumAverage\bin\Debug\18_2dArraySumAverage.exe
+C:\Users\Administrator\Documents\GitHub\C_Pound_Progress\18_2dArraySumAverage\18_2dArraySumAverage\bin\Debug\18_2dArraySumAverage.pdb
+C:\Users\Administrator\Documents\GitHub\C_Pound_Progress\18_2dArraySumAverage\18_2dArraySumAverage\obj\Debug\18_2dArraySumAverage.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\C_Pound_Progress\18_2dArraySumAverage\18_2dArraySumAverage\obj\Debug\18_2dArraySumAverage.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\GitHub\C_Pound_Progress\18_2dArraySumAverage\18_2dArraySumAverage\obj\Debug\18_2dArraySumAverage.exe
+C:\Users\Administrator\Documents\GitHub\C_Pound_Progress\18_2dArraySumAverage\18_2dArraySumAverage\obj\Debug\18_2dArraySumAverage.pdb

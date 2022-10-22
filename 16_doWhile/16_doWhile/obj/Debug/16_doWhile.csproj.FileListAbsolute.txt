@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\16_doWhile\16_doWhile\bin\Debug\16_doWhile.exe.config
+C:\Users\Administrator\source\repos\16_doWhile\16_doWhile\bin\Debug\16_doWhile.exe
+C:\Users\Administrator\source\repos\16_doWhile\16_doWhile\bin\Debug\16_doWhile.pdb
+C:\Users\Administrator\source\repos\16_doWhile\16_doWhile\obj\Debug\16_doWhile.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\16_doWhile\16_doWhile\obj\Debug\16_doWhile.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\16_doWhile\16_doWhile\obj\Debug\16_doWhile.exe
+C:\Users\Administrator\source\repos\16_doWhile\16_doWhile\obj\Debug\16_doWhile.pdb
