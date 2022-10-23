@@ -1,0 +1,7 @@
+C:\Users\82108\Documents\GitHub\C_Pound_Progress\19_ArrowFunction\19_ArrowFunction\obj\Debug\19_ArrowFunction.csproj.AssemblyReference.cache
+C:\Users\82108\Documents\GitHub\C_Pound_Progress\19_ArrowFunction\19_ArrowFunction\obj\Debug\19_ArrowFunction.csproj.CoreCompileInputs.cache
+C:\Users\82108\Documents\GitHub\C_Pound_Progress\19_ArrowFunction\19_ArrowFunction\bin\Debug\19_ArrowFunction.exe.config
+C:\Users\82108\Documents\GitHub\C_Pound_Progress\19_ArrowFunction\19_ArrowFunction\bin\Debug\19_ArrowFunction.exe
+C:\Users\82108\Documents\GitHub\C_Pound_Progress\19_ArrowFunction\19_ArrowFunction\bin\Debug\19_ArrowFunction.pdb
+C:\Users\82108\Documents\GitHub\C_Pound_Progress\19_ArrowFunction\19_ArrowFunction\obj\Debug\19_ArrowFunction.exe
+C:\Users\82108\Documents\GitHub\C_Pound_Progress\19_ArrowFunction\19_ArrowFunction\obj\Debug\19_ArrowFunction.pdb

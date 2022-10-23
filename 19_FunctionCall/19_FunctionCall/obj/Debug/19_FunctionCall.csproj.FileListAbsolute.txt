@@ -1,0 +1,7 @@
+C:\Users\82108\Documents\GitHub\C_Pound_Progress\19_FunctionCall\19_FunctionCall\bin\Debug\19_FunctionCall.exe.config
+C:\Users\82108\Documents\GitHub\C_Pound_Progress\19_FunctionCall\19_FunctionCall\bin\Debug\19_FunctionCall.exe
+C:\Users\82108\Documents\GitHub\C_Pound_Progress\19_FunctionCall\19_FunctionCall\bin\Debug\19_FunctionCall.pdb
+C:\Users\82108\Documents\GitHub\C_Pound_Progress\19_FunctionCall\19_FunctionCall\obj\Debug\19_FunctionCall.csproj.AssemblyReference.cache
+C:\Users\82108\Documents\GitHub\C_Pound_Progress\19_FunctionCall\19_FunctionCall\obj\Debug\19_FunctionCall.csproj.CoreCompileInputs.cache
+C:\Users\82108\Documents\GitHub\C_Pound_Progress\19_FunctionCall\19_FunctionCall\obj\Debug\19_FunctionCall.exe
+C:\Users\82108\Documents\GitHub\C_Pound_Progress\19_FunctionCall\19_FunctionCall\obj\Debug\19_FunctionCall.pdb
