@@ -1,0 +1,2 @@
+C:\Users\Administrator\Documents\GitHub\C_Pound_Progress\23_ConsoleColor\23_ConsoleColor\obj\Debug\23_ConsoleColor.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\C_Pound_Progress\23_ConsoleColor\23_ConsoleColor\obj\Debug\23_ConsoleColor.csproj.CoreCompileInputs.cache

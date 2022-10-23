@@ -1,0 +1,6 @@
+C:\Users\Administrator\Documents\GitHub\C_Pound_Progress\22_StructVariable\22_StructVariable\bin\Debug\22_StructVariable.exe.config
+C:\Users\Administrator\Documents\GitHub\C_Pound_Progress\22_StructVariable\22_StructVariable\bin\Debug\22_StructVariable.exe
+C:\Users\Administrator\Documents\GitHub\C_Pound_Progress\22_StructVariable\22_StructVariable\bin\Debug\22_StructVariable.pdb
+C:\Users\Administrator\Documents\GitHub\C_Pound_Progress\22_StructVariable\22_StructVariable\obj\Debug\22_StructVariable.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\GitHub\C_Pound_Progress\22_StructVariable\22_StructVariable\obj\Debug\22_StructVariable.exe
+C:\Users\Administrator\Documents\GitHub\C_Pound_Progress\22_StructVariable\22_StructVariable\obj\Debug\22_StructVariable.pdb
