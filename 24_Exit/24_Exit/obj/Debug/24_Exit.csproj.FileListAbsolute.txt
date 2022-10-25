@@ -1,0 +1,7 @@
+C:\Users\Administrator\Documents\GitHub\C_Pound_Progress\24_Exit\24_Exit\bin\Debug\24_Exit.exe.config
+C:\Users\Administrator\Documents\GitHub\C_Pound_Progress\24_Exit\24_Exit\bin\Debug\24_Exit.exe
+C:\Users\Administrator\Documents\GitHub\C_Pound_Progress\24_Exit\24_Exit\bin\Debug\24_Exit.pdb
+C:\Users\Administrator\Documents\GitHub\C_Pound_Progress\24_Exit\24_Exit\obj\Debug\24_Exit.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\C_Pound_Progress\24_Exit\24_Exit\obj\Debug\24_Exit.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\GitHub\C_Pound_Progress\24_Exit\24_Exit\obj\Debug\24_Exit.exe
+C:\Users\Administrator\Documents\GitHub\C_Pound_Progress\24_Exit\24_Exit\obj\Debug\24_Exit.pdb
