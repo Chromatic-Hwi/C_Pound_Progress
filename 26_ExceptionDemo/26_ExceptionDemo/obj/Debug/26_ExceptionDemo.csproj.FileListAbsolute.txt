@@ -1,0 +1,7 @@
+C:\Users\82108\Documents\GitHub\Practice\Coding_Test\C#\26_ExceptionDemo\26_ExceptionDemo\bin\Debug\26_ExceptionDemo.exe.config
+C:\Users\82108\Documents\GitHub\Practice\Coding_Test\C#\26_ExceptionDemo\26_ExceptionDemo\bin\Debug\26_ExceptionDemo.exe
+C:\Users\82108\Documents\GitHub\Practice\Coding_Test\C#\26_ExceptionDemo\26_ExceptionDemo\bin\Debug\26_ExceptionDemo.pdb
+C:\Users\82108\Documents\GitHub\Practice\Coding_Test\C#\26_ExceptionDemo\26_ExceptionDemo\obj\Debug\26_ExceptionDemo.csproj.AssemblyReference.cache
+C:\Users\82108\Documents\GitHub\Practice\Coding_Test\C#\26_ExceptionDemo\26_ExceptionDemo\obj\Debug\26_ExceptionDemo.csproj.CoreCompileInputs.cache
+C:\Users\82108\Documents\GitHub\Practice\Coding_Test\C#\26_ExceptionDemo\26_ExceptionDemo\obj\Debug\26_ExceptionDemo.exe
+C:\Users\82108\Documents\GitHub\Practice\Coding_Test\C#\26_ExceptionDemo\26_ExceptionDemo\obj\Debug\26_ExceptionDemo.pdb
