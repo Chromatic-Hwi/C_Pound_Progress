@@ -1,0 +1,7 @@
+C:\Users\82108\Documents\GitHub\Practice\Coding_Test\C#\27_ArrayClass\27_ArrayClass\bin\Debug\27_ArrayClass.exe.config
+C:\Users\82108\Documents\GitHub\Practice\Coding_Test\C#\27_ArrayClass\27_ArrayClass\bin\Debug\27_ArrayClass.exe
+C:\Users\82108\Documents\GitHub\Practice\Coding_Test\C#\27_ArrayClass\27_ArrayClass\bin\Debug\27_ArrayClass.pdb
+C:\Users\82108\Documents\GitHub\Practice\Coding_Test\C#\27_ArrayClass\27_ArrayClass\obj\Debug\27_ArrayClass.csproj.AssemblyReference.cache
+C:\Users\82108\Documents\GitHub\Practice\Coding_Test\C#\27_ArrayClass\27_ArrayClass\obj\Debug\27_ArrayClass.csproj.CoreCompileInputs.cache
+C:\Users\82108\Documents\GitHub\Practice\Coding_Test\C#\27_ArrayClass\27_ArrayClass\obj\Debug\27_ArrayClass.exe
+C:\Users\82108\Documents\GitHub\Practice\Coding_Test\C#\27_ArrayClass\27_ArrayClass\obj\Debug\27_ArrayClass.pdb
