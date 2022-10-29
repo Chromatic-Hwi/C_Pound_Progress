@@ -1,0 +1,7 @@
+C:\Users\Administrator\Documents\GitHub\C_Pound_Progress\28_EnumerableDemo\28_EnumerableDemo\bin\Debug\28_EnumerableDemo.exe.config
+C:\Users\Administrator\Documents\GitHub\C_Pound_Progress\28_EnumerableDemo\28_EnumerableDemo\bin\Debug\28_EnumerableDemo.exe
+C:\Users\Administrator\Documents\GitHub\C_Pound_Progress\28_EnumerableDemo\28_EnumerableDemo\bin\Debug\28_EnumerableDemo.pdb
+C:\Users\Administrator\Documents\GitHub\C_Pound_Progress\28_EnumerableDemo\28_EnumerableDemo\obj\Debug\28_EnumerableDemo.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\C_Pound_Progress\28_EnumerableDemo\28_EnumerableDemo\obj\Debug\28_EnumerableDemo.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\GitHub\C_Pound_Progress\28_EnumerableDemo\28_EnumerableDemo\obj\Debug\28_EnumerableDemo.exe
+C:\Users\Administrator\Documents\GitHub\C_Pound_Progress\28_EnumerableDemo\28_EnumerableDemo\obj\Debug\28_EnumerableDemo.pdb
