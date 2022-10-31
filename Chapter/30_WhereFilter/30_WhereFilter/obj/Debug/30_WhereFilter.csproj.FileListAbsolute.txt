@@ -1,0 +1,6 @@
+C:\Users\Administrator\Documents\GitHub\C_Pound_Progress\Chapter\30_WhereFilter\30_WhereFilter\bin\Debug\30_WhereFilter.exe.config
+C:\Users\Administrator\Documents\GitHub\C_Pound_Progress\Chapter\30_WhereFilter\30_WhereFilter\bin\Debug\30_WhereFilter.exe
+C:\Users\Administrator\Documents\GitHub\C_Pound_Progress\Chapter\30_WhereFilter\30_WhereFilter\bin\Debug\30_WhereFilter.pdb
+C:\Users\Administrator\Documents\GitHub\C_Pound_Progress\Chapter\30_WhereFilter\30_WhereFilter\obj\Debug\30_WhereFilter.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\GitHub\C_Pound_Progress\Chapter\30_WhereFilter\30_WhereFilter\obj\Debug\30_WhereFilter.exe
+C:\Users\Administrator\Documents\GitHub\C_Pound_Progress\Chapter\30_WhereFilter\30_WhereFilter\obj\Debug\30_WhereFilter.pdb

@@ -1,0 +1,7 @@
+C:\Users\Administrator\Documents\GitHub\C_Pound_Progress\Chapter\30_LinqWhereMethods\30_LinqWhereMethods\obj\Debug\30_LinqWhereMethods.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\C_Pound_Progress\Chapter\30_LinqWhereMethods\30_LinqWhereMethods\obj\Debug\30_LinqWhereMethods.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\GitHub\C_Pound_Progress\Chapter\30_LinqWhereMethods\30_LinqWhereMethods\bin\Debug\30_LinqWhereMethods.exe.config
+C:\Users\Administrator\Documents\GitHub\C_Pound_Progress\Chapter\30_LinqWhereMethods\30_LinqWhereMethods\bin\Debug\30_LinqWhereMethods.exe
+C:\Users\Administrator\Documents\GitHub\C_Pound_Progress\Chapter\30_LinqWhereMethods\30_LinqWhereMethods\bin\Debug\30_LinqWhereMethods.pdb
+C:\Users\Administrator\Documents\GitHub\C_Pound_Progress\Chapter\30_LinqWhereMethods\30_LinqWhereMethods\obj\Debug\30_LinqWhereMethods.exe
+C:\Users\Administrator\Documents\GitHub\C_Pound_Progress\Chapter\30_LinqWhereMethods\30_LinqWhereMethods\obj\Debug\30_LinqWhereMethods.pdb
