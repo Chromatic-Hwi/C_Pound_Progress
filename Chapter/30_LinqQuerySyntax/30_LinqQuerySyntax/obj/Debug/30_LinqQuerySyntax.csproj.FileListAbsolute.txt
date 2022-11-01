@@ -1,0 +1,7 @@
+C:\Users\Hwi\Documents\GitHub\C_Pound_Progress\Chapter\30_LinqQuerySyntax\30_LinqQuerySyntax\bin\Debug\30_LinqQuerySyntax.exe.config
+C:\Users\Hwi\Documents\GitHub\C_Pound_Progress\Chapter\30_LinqQuerySyntax\30_LinqQuerySyntax\bin\Debug\30_LinqQuerySyntax.exe
+C:\Users\Hwi\Documents\GitHub\C_Pound_Progress\Chapter\30_LinqQuerySyntax\30_LinqQuerySyntax\bin\Debug\30_LinqQuerySyntax.pdb
+C:\Users\Hwi\Documents\GitHub\C_Pound_Progress\Chapter\30_LinqQuerySyntax\30_LinqQuerySyntax\obj\Debug\30_LinqQuerySyntax.csproj.AssemblyReference.cache
+C:\Users\Hwi\Documents\GitHub\C_Pound_Progress\Chapter\30_LinqQuerySyntax\30_LinqQuerySyntax\obj\Debug\30_LinqQuerySyntax.csproj.CoreCompileInputs.cache
+C:\Users\Hwi\Documents\GitHub\C_Pound_Progress\Chapter\30_LinqQuerySyntax\30_LinqQuerySyntax\obj\Debug\30_LinqQuerySyntax.exe
+C:\Users\Hwi\Documents\GitHub\C_Pound_Progress\Chapter\30_LinqQuerySyntax\30_LinqQuerySyntax\obj\Debug\30_LinqQuerySyntax.pdb
