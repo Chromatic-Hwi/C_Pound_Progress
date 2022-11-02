@@ -1,0 +1,7 @@
+C:\Users\auseh\OneDrive\문서\C_Pound_Progres\Chapter\31_SumAlgorithm\31_SumAlgorithm\bin\Debug\31_SumAlgorithm.exe.config
+C:\Users\auseh\OneDrive\문서\C_Pound_Progres\Chapter\31_SumAlgorithm\31_SumAlgorithm\bin\Debug\31_SumAlgorithm.exe
+C:\Users\auseh\OneDrive\문서\C_Pound_Progres\Chapter\31_SumAlgorithm\31_SumAlgorithm\bin\Debug\31_SumAlgorithm.pdb
+C:\Users\auseh\OneDrive\문서\C_Pound_Progres\Chapter\31_SumAlgorithm\31_SumAlgorithm\obj\Debug\31_SumAlgorithm.csproj.AssemblyReference.cache
+C:\Users\auseh\OneDrive\문서\C_Pound_Progres\Chapter\31_SumAlgorithm\31_SumAlgorithm\obj\Debug\31_SumAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\auseh\OneDrive\문서\C_Pound_Progres\Chapter\31_SumAlgorithm\31_SumAlgorithm\obj\Debug\31_SumAlgorithm.exe
+C:\Users\auseh\OneDrive\문서\C_Pound_Progres\Chapter\31_SumAlgorithm\31_SumAlgorithm\obj\Debug\31_SumAlgorithm.pdb

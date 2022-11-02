@@ -1,0 +1,6 @@
+C:\Users\auseh\OneDrive\문서\C_Pound_Progres\Chapter\31_AverageAlgorithm\31_AverageAlgorithm\bin\Debug\31_AverageAlgorithm.exe.config
+C:\Users\auseh\OneDrive\문서\C_Pound_Progres\Chapter\31_AverageAlgorithm\31_AverageAlgorithm\bin\Debug\31_AverageAlgorithm.exe
+C:\Users\auseh\OneDrive\문서\C_Pound_Progres\Chapter\31_AverageAlgorithm\31_AverageAlgorithm\bin\Debug\31_AverageAlgorithm.pdb
+C:\Users\auseh\OneDrive\문서\C_Pound_Progres\Chapter\31_AverageAlgorithm\31_AverageAlgorithm\obj\Debug\31_AverageAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\auseh\OneDrive\문서\C_Pound_Progres\Chapter\31_AverageAlgorithm\31_AverageAlgorithm\obj\Debug\31_AverageAlgorithm.exe
+C:\Users\auseh\OneDrive\문서\C_Pound_Progres\Chapter\31_AverageAlgorithm\31_AverageAlgorithm\obj\Debug\31_AverageAlgorithm.pdb
